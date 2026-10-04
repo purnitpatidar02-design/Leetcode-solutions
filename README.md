@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/purnitpatidar02-design/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/purnitpatidar02-design/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/purnitpatidar02-design/Leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -25,9 +26,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/purnitpatidar02-design/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/purnitpatidar02-design/Leetcode-solutions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/purnitpatidar02-design/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/purnitpatidar02-design/Leetcode-solutions/tree/master/0283-move-zeroes) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/purnitpatidar02-design/Leetcode-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/purnitpatidar02-design/Leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
